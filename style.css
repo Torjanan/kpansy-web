@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #fff7f6;
+    color: #333;
+}
+
+header {
+    background: linear-gradient(45deg, red, #ffe4c4);
+    padding: 20px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    background: #ffe4c4;
+    padding: 10px;
+}
+
+.navbar a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #a00;
+    font-weight: bold;
+}
+
+.feed {
+    padding: 20px;
+}
